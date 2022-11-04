@@ -1,7 +1,7 @@
-<!-- h2{
+/*-- h2{
 <!--background-color: #FEFFED;
 <!--padding: 30px 35px;
-/*margin: -10px -50px;
+margin: -10px -50px;
 text-align:center;
 border-radius: 10px 10px 0 0;
 }
